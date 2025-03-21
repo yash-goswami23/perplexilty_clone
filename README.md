@@ -60,7 +60,8 @@ Answer Page
 ![Answer_Page](https://github.com/user-attachments/assets/2ad4c50f-2c9d-4075-b9f8-0374d915bc72)
 
 Video
-[!video](https://github.com/user-attachments/assets/157c42f7-d08b-48e0-93c7-c011b0b49fe4)
+https://github.com/user-attachments/assets/157c42f7-d08b-48e0-93c7-c011b0b49fe4
+
 # 🛠️ Setup & Installation
 #### 📌 Backend (FastAPI)  
 1. Clone the repo:  
